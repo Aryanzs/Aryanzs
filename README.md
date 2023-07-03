@@ -1,5 +1,9 @@
-# <center>  **Hi** 
-# <center> **I'm Aryan singh😎**
+<div align="center"> 
+  
+#    **Hi** 
+#   **I'm Aryan singh😎**
+
+</div>
 <br>
 <div align="center">
 
